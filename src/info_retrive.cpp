@@ -7,9 +7,11 @@
 //============================================================================
 
 #include <iostream>
+#include "./guide_book/all.h"
 using namespace std;
 
 int main() {
 	cout << "info retrive" << endl; // prints info retrive
+	test_3();
 	return 0;
 }
